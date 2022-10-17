@@ -7,7 +7,7 @@
 
 > Used API for virtual profile picture: https://api.multiavatar.com/
 
-# Steps to Start the App=>
+# Steps to Start the App
 > Install the Front-end Dependencies.
 
 > Install the Server Dependencies.
